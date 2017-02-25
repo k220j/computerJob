@@ -6,7 +6,9 @@
 3. [운영체제](http://naver.com)
 4. [네트워크](http://naver.com)
 5. [문제해결전략](http://naver.com)
-6. [기존 네이버 블로그](http://blog.naver.com/k220j)
+6. [알고리즘설계기법](http://naver.com)
+7. [면접팁](http://naver.com)
+7. [기존 네이버 블로그](http://blog.naver.com/k220j)
 
 
 
