@@ -5,11 +5,11 @@
 2. [알고리즘](.//k220j)
 3. [운영체제](http://naver.com)
 4. [네트워크](http://naver.com)
-5. [문제해결전략](http://naver.com)
-6. [알고리즘설계기법](http://naver.com)
-6. [알고리즘설계기법](http://naver.com)
-7. [면접팁](http://naver.com)
-6. [알고리즘설계기법](http://naver.com)
+5. [Database](http://naver.com)
+6. [기타]http://naver.com)
+7. [프로그래밍문제]ttp://naver.com)
+8. [면접팁](http://naver.com)
+9. [알고리즘설계기법](http://naver.com)
 
 
 
