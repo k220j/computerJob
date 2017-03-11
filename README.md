@@ -10,7 +10,7 @@
 7. [프로그래밍문제](http://naver.com)
 8. [면접팁](http://naver.com)
 9. [알고리즘설계기법](http://naver.com)
-
+10.[면접에서나온 문제들]   (http://naver.com)                                
 
 
 
